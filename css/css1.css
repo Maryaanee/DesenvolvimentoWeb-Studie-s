@@ -1,0 +1,40 @@
+.red-text {
+    color: red;
+}
+
+.hex-cor {
+    color: #00ff00;
+}
+
+.rgb-cor {
+    color: rgb(0,0,255)
+}
+
+.background-red {
+    color: red;
+}
+
+.background-hex {
+    color: #00ff00;
+}
+
+.background-rgb {
+    color: rgb(0,0,255)
+}
+
+.arial-text{
+    font-family: Arial, sans-serif;
+}
+
+.georgia.text{
+    font-family: Georgia, serif;        
+}
+
+.custom-text{
+    font-family: 'Courier New', monospace;
+}
+
+.muito-spacing { letter-spacing: 2px;}
+.pouco-spacing { letter-spacing: -1px;}
+.muito-heigth { letter-spacing: 2;}
+.pouco-heigth { letter-spacing: 0.5;}
